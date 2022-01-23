@@ -15,3 +15,7 @@ I started by dividing my work into about 3 methods that would do the majority of
 ## Challenges I faced
 
 As a programmer, I face bugs countless times. This program in particular, though, might have been my personal record. From string formatting errors (how is one going to memorize those flags?), to a simple, yet decieving line of code about ArrayLists. For the string formatting errors, I consulted Oracle's helpful Java docs. For the ArrayList problem, I realized that starting my loop index at 1, means that for the code that was meant to be 1 index before the previous (ex. i-1), it had to be i-2.
+
+## What's next
+
+I hope to introduce this program to a larger group of individuals, who could maybe use this software for their own needs. However, I understand that applications like TurboTax already dominate the market, but maybe someone would prefer this, actually knowing how to do it by looking at the code? 
